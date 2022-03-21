@@ -1,0 +1,14 @@
+.pessoa__imagem {
+    height: 300px;
+    margin: 0 auto;
+    width: 300px;
+    background-color: darkcyan;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 100%;
+}
+
+.pessoa__imagem--roberta {
+    background-image: url('../../img/pessoas/roberta.jpg');
+}
